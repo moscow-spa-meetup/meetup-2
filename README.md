@@ -1,6 +1,6 @@
 # Moscow SPA Meetup №2
 
-Первый [митап посвященный SPA](https://moscow-spa.timepad.ru/event/185632/) (Single Page Application), который прошел в Москве в офисе [Авито](https://www.avito.ru/), 23 апреля 2016 года.
+Второй [митап посвященный SPA](https://moscow-spa.timepad.ru/event/311590/) (Single Page Application), который прошел в Москве в офисе [Авито](https://www.avito.ru/), 23 апреля 2016 года.
 
 *Видео-запись выступлений в обработке, появится позже*
 
