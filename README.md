@@ -10,7 +10,7 @@
 
 Неважно какой фреймворк вы используете, внутри всё равно будет ваш уникальный код под проект, со своей структурой и логикой. Его нужно поддерживать, а коллегам нужно в него вникать. Как минимизировать порог вхождений и в целом облегчить поддержку проекта? Какие инструменты и подходы можно использовать, или сделать самому, для анализа, даже не кода, а проекта в целом? Константин поделится своим взглядом на этим вопросы и какие могут быть решения.
 
-[Видео](https://youtu.be/bUf7d3z9da4?list=PLknJ4Vr6efQF_GMmm2Hl_EBW3sDkXvJ0m) | Слайды: [PDF](https://github.com/lahmatiy/moscow-spa-meetup-2/raw/master/pdf/make-life-easy.pdf)
+[Видео](https://youtu.be/bUf7d3z9da4?list=PLknJ4Vr6efQF_GMmm2Hl_EBW3sDkXvJ0m) | Слайды: [HTML](http://www.slideshare.net/ibnrubaxa/avito-spa-meetup-2) [PDF](https://github.com/lahmatiy/moscow-spa-meetup-2/raw/master/pdf/make-life-easy.pdf)
  
 ## МРТ для данных
  
